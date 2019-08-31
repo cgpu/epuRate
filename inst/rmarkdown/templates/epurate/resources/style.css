@@ -98,3 +98,9 @@ a:hover {
   background-color: #9A556F;
   border-color: #9A556F;
 }
+
+/* ---------- Main Container ----------------- */
+
+body .main-container {
+  max-width: 80%;
+  }
